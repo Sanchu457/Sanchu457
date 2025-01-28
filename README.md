@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sanchit Sudhakar madame 
-- 👀 I’m interested in python , SQL , machine learning 
+- 👀 I’m interested in python , SQL 
 - 🌱 I’m currently learning data scientist 
 - 💞️ I’m looking for job 
 - 📫 How to reach me ... Sanchu457@gmail
